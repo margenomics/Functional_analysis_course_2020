@@ -1,6 +1,6 @@
-# Functional analysis of omics data 
+# Functional analysis of omics data course
 
-Material (lectures and material) for the Functional analysis of omics data course (2020).
+Lectures and material for the *Functional analysis of omics data* course (2020).
 
 ## Instructors
 
