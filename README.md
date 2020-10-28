@@ -58,3 +58,5 @@ After the course you should be able to...
 * [GSEA](https://www.gsea-msigdb.org/gsea/downloads.jsp)
 * [CytoScape](https://cytoscape.org/)
 
+
+The material of this course is distributed under the Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)[https://creativecommons.org/licenses/by-sa/4.0/deed.en] license. 
